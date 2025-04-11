@@ -5,18 +5,6 @@ Project ini merupakan implementasi konsep **PBO (Pemrograman Berorientasi Objek)
 
 ---
 
-## 📁 Struktur Folder
-```
-PBO/
-├── src/
-│   ├── bangunDatar/
-│   ├── bangunRuang/
-│   └── main/
-└── README.md
-```
-
----
-
 ## 🔷 bangunDatar
 
 Berisi class-class abstrak dan turunan untuk bangun datar seperti:
