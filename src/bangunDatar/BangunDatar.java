@@ -16,11 +16,11 @@ public abstract class BangunDatar {
 
     public double getLuas() {
         return luas;
-    } // buat Limas
+    }
 
     public double getKeliling() {
         return keliling;
-    } // buat Limas
+    }
 
     public abstract void hitungLuas();
     public abstract void hitungKeliling();
