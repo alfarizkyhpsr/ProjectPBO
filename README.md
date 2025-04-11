@@ -9,12 +9,16 @@ Project ini merupakan implementasi konsep **PBO (Pemrograman Berorientasi Objek)
 
 Berisi class-class abstrak dan turunan untuk bangun datar seperti:
 - **BangunDatar (abstrak)** → superclass semua bangun datar.
+- **Belah Ketupat**
+- **Jajar Genjang**
+- **Juring Lingkaran**
+- **Layang-Layang**
 - **Lingkaran**
 - **Persegi**
 - **PersegiPanjang**
 - **Segitiga**
-- **LayangLayang**
-- **JuringLingkaran**
+- **Tembereng Lingkaran**
+- **Trapesium**
 
 ### ✨ Konsep:
 - Setiap class override method `hitungLuas()` dan `hitungKeliling()`.
@@ -26,6 +30,7 @@ Berisi class-class abstrak dan turunan untuk bangun datar seperti:
 ## 🔷 bangunRuang
 
 Berisi class-class turunan dari abstrak `BangunRuang`, seperti:
+- **BangunRuang (abstrak)** → superclass semua bangun ruang.
 - **Bola**
 - **Tabung**
 - **Kubus**
