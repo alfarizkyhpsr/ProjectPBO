@@ -248,6 +248,16 @@ Setiap method `hitungLuas()`, `hitungKeliling()`, `hitungVolume()`, dan `hitungL
   - `LayangLayang`
   - `JuringLingkaran`
   - Semua objek `BangunRuang` (dengan objek `BangunDatar` sebagai alas)
+---
+
+## 👥 Tim Pengembang
+
+- Luthfi Alaudin R
+- Arya Rudy S
+- Millatina Hasya S
+- Luthfiyya Nur R
+- Isyraf Fajar A
+- Alfa Rizky H
 
 ---
 
